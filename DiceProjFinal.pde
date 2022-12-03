@@ -4,8 +4,8 @@ float total;
 float totalTotal=0;
 int totaldie;
 String totalAverage;
-int numRow=5;
-int numCol=10;
+int numRow=1;
+int numCol=5;
 int numRowN=0;
 int numColN=0;
 //N is for the current amount
